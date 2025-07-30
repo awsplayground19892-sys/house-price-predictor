@@ -18,6 +18,7 @@ on:
       run_build_and_publish:
         description: 'Run build and publish job'
         required: false
+        default: 'false'
 
     
       
